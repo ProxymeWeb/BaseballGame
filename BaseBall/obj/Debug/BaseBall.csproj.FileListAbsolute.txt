@@ -18,3 +18,13 @@ C:\Users\maxim\Desktop\BaseBall\BaseBall\obj\Debug\BaseBall.csproj.GenerateResou
 C:\Users\maxim\Desktop\BaseBall\BaseBall\obj\Debug\BaseBall.csproj.CoreCompileInputs.cache
 C:\Users\maxim\Desktop\BaseBall\BaseBall\obj\Debug\BaseBall.exe
 C:\Users\maxim\Desktop\BaseBall\BaseBall\obj\Debug\BaseBall.pdb
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\bin\Debug\BaseBall.exe.config
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\bin\Debug\BaseBall.exe
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\bin\Debug\BaseBall.pdb
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\obj\Debug\BaseBall.csproj.AssemblyReference.cache
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\obj\Debug\BaseBall.Form1.resources
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\obj\Debug\BaseBall.Properties.Resources.resources
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\obj\Debug\BaseBall.csproj.GenerateResource.cache
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\obj\Debug\BaseBall.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\obj\Debug\BaseBall.exe
+C:\Users\maxim\Documents\GitHub\BaseballGame\BaseBall\obj\Debug\BaseBall.pdb
