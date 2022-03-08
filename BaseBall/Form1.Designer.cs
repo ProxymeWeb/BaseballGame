@@ -305,10 +305,10 @@ namespace BaseBall
             this.AutoValidate = System.Windows.Forms.AutoValidate.Disable;
             this.BackColor = System.Drawing.Color.Beige;
             this.ClientSize = new System.Drawing.Size(674, 619);
+            this.Controls.Add(this.labscore);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.nbballe);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.labscore);
             this.Controls.Add(this.groupBoxDiff);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnStart);
